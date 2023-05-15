@@ -5,24 +5,7 @@
         "name": "Veerangana",
         "email": "veera@gmail.xyz",
         "password": "1234",
-        "learning": [
-          {
-            "id": 16,
-            "title": "Business Analyst",
-            "description": "You will gain basic knowledge, make an informed choice of specialization, gain analytical skills, and eventually find a job.",
-            "duration": "9 months",
-            "specialization": "analytics",
-            "level": "beginner"
-          },
-          {
-            "id": 1,
-            "title": "Developer",
-            "description": "You will learn fundamental knowledge in IT and level up in the direction of product management. Get a sought-after profession and the opportunity to open a business in the field of information technology.",
-            "duration": "12 months",
-            "specialization": "frontend",
-            "level": "beginner"
-          }
-        ]
+        "learning": []
       },
       {
         "id": 2,
